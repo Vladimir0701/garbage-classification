@@ -26,11 +26,12 @@ garbage-classification/
 
 ## Запуск
 
-Ноутбук рассчитан на запуск в Google Colab с GPU.
+Ноутбук рассчитан на запуск в Google Colab, среда с GPU T4 выбирается автоматически.
 
-1. Открыть `garbage_classification.ipynb` в Colab.
-2. Загрузить датасет (`archive.zip` с Kaggle) либо примонтировать Google Drive.
-3. Запустить ячейки по порядку.
+1. Открыть ноутбук в Colab: [ссылка](https://colab.research.google.com/github/Vladimir0701/garbage-classification/blob/main/garbage_classification.ipynb).
+2. Запустить все ячейки (Среда выполнения → Выполнить все).
+
+Датасет скачивается с Kaggle прямо в ноутбуке через `kagglehub`, вручную загружать ничего не нужно.
 
 ## Результаты
 
