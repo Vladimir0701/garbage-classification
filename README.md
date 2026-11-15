@@ -41,6 +41,7 @@
 ```
 garbage-classification/
 ├── garbage_classification.ipynb   # основной ноутбук (с результатами выполнения)
+├── report/                        # отчёт по курсовой (Word)
 ├── requirements.txt
 └── README.md
 ```
